@@ -3,6 +3,7 @@
 _by Marilyn Cordero_
 
 ---
+
 ## Git vs. GitHub
 Git is an open sourced version control tool that opperates in the command line created by Linus Trovalds.    
   github.com ← website
@@ -21,17 +22,31 @@ does not require github
 
  [GitHub](http://www.github.com) is a place to store snapshots of your code 
  and network with others who might want to improve your code and help you debug.
+ 
+ #####Github#####
+ * stores code in the cloud (internet)
+ * allows you to visually track changes between recent commits
+ * easilly collaborate with others on files
+ * requires git 
+ 
+ 
+ 
+ 
+ 
 
 ---
-## Initial Setup
+## GitHub Setup
   go to [GitHub](http://www.github.com)
-
-
----
-## Repository Setup
-
-
-
+ click on sign up  
+ 
+ * create a username and password    
+ 
+* enter your email adress   
+ 
+* go to your email and confirm your account 
+ 
+*  youve now created your very own GitHub account 
+ 
 ---
 ## Workflow & Commands     
 * git init // initialized git in our directory    
